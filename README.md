@@ -1,6 +1,6 @@
 # Youtube_vedios_data-
 The publicly available YouTube video data is compiled into short clips for educational and research purposes.
-The selected clips do not harm or misrepresent the content creators or any individuals featured in the video.
+The selected clips do not misrepresent the content creators or any individuals featured in the video.
 
 
 # Attribution
