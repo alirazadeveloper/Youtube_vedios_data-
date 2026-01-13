@@ -2,6 +2,10 @@
 The publicly available YouTube video data is compiled into short clips for educational and research purposes.
 The selected clips do not misrepresent the content creators or any individuals featured in the video.
 
+The compiled video data is available at the Google Drive (due to large size):
+
+https://drive.google.com/drive/folders/1bJIhsr2iiehiuj4ffKrAB-D9KBvWM47W?usp=sharing
+
 
 # Attribution
 The video clips used in this study are sourced from publicly available content on YouTube:
